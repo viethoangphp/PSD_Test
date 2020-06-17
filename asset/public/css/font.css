@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'UTM_Beautiful_Caps';
+	src: url('../../fonts/UTM_Beautiful_Caps.eot');
+	src: local('☺'), url('../../fonts/UTM_Beautiful_Caps.woff') format('woff'), url('../../fonts/UTM_Beautiful_Caps.ttf') format('truetype'), url('../../fonts/[UTM_Beautiful_Caps.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
